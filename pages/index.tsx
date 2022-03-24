@@ -5,7 +5,6 @@ import { Layout } from '../components/layout/Layout';
 const Home: NextPage = () => {
   return (
     <Layout>
-      <h1>Hola, soy Gustavo</h1>
     </Layout>
   );
 };
